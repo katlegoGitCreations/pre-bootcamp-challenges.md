@@ -1,2 +1,2 @@
-# pre-bootcamplle-challenges.md
-task 1.py
+# pre-bootcamp-challenges.md
+
