@@ -9,5 +9,4 @@ sum += number
 elif number% 9 == 0:
 sum += number
 else:
-pass
 print(sum)
